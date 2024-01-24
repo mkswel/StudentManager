@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cj.png</file>
+        <file>res/jc.png</file>
+        <file>res/jf.png</file>
+        <file>res/kc.png</file>
+        <file>res/wd.png</file>
+        <file>res/logo.jpg</file>
+        <file>res/search.png</file>
+        <file>res/arrow.png</file>
+        <file>res/avatar.png</file>
+        <file>res/text.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file alias="data_init">C:/Users/81530/Desktop/data_init.sql</file>
+    </qresource>
+</RCC>
